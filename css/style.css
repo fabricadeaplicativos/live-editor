@@ -1,0 +1,22 @@
+#item {
+	height: 80px;
+	width: 80px;
+
+	background-color: darkred;
+}
+
+#drop {
+	height: 200px;
+	width: 200px;
+
+	background-color: navy;
+}
+
+#ionic-app {
+	position: relative;
+	width: 320px;
+
+	height: 568px;
+
+	border: 1px solid #eee;
+}
